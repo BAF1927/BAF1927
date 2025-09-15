@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Bruno Arriola
 
-## 🧍 About Me
+## ⚡ About Me
 - Co-Founder & CTO at MedicFlow
 - Computer Science student at Syracuse University
 - FIRST Robotics Competition Dean's List Award recipient

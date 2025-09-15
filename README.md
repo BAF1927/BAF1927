@@ -38,7 +38,6 @@
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
 
